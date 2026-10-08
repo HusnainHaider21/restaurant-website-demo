@@ -1,0 +1,2 @@
+import { MessageCircle } from 'lucide-react';
+export default function WhatsAppButton(){return <a aria-label="Order on WhatsApp" href="https://wa.me/923001234567?text=Assalam%20o%20Alaikum%2C%20I%20want%20to%20place%20an%20order." target="_blank" rel="noreferrer" className="fixed bottom-5 right-5 z-40 grid h-14 w-14 place-items-center rounded-full bg-stone-950 text-amber-400 shadow-2xl ring-4 ring-white transition hover:-translate-y-1 hover:bg-amber-600 hover:text-white"><MessageCircle/></a>}
