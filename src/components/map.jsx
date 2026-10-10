@@ -8,7 +8,7 @@ const Map = () => {
         <h2 className="text-[28px] md:text-[36px] font-bold text-gray-900 tracking-tight">
           Find <span className="text-blue-600"> <span className='text-amber-700'>US Here</span></span>
         </h2>
-        <div className="w-16 h-1 bg-blue-600 mx-auto mt-3 rounded-full"></div>
+        <div className="w-16 h-1 bg-amber-600 mx-auto mt-3 rounded-full"></div>
         <p className="text-gray-500 mt-3 text-sm md:text-base">
           Visit our restaurant at Jaranwala Rail Bazar
         </p>
