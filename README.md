@@ -1,4 +1,4 @@
-# Savory House — Premium Restaurant Demo
+# Taste Avenue- Premium Restaurant Demo
 
 React + Vite + Tailwind CSS restaurant website designed as a client-facing demo.
 
